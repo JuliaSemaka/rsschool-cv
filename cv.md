@@ -20,3 +20,9 @@ newArray: (id) => array.filter(elem => elem.id == id);
 
 ### Experience: Junior php developer
 
+### Education:
+* BSU University
+* website: [website with courses](https://coursehunter.net/)
+* website: [youtube](https://www.youtube.com/)
+
+### CEFR: A2
