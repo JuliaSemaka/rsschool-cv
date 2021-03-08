@@ -55,6 +55,7 @@
 .description-text-code {
   background: #f5f2f0;
 }
-.description-photo img {
+.description-photo img,
+.description-footer img {
   max-width: 250px;
 }
